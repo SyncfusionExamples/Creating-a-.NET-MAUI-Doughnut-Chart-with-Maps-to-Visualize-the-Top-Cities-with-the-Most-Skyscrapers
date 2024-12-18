@@ -17,4 +17,4 @@ This article explains how to creating a .NET MAUI doughnut chart with maps to Vi
 ## Troubleshooting
 ### Path too long exception
 If you are facing path too long exception when building this example project, close Visual Studio and rename the repository to short and build the project.
-For a step-by-step procedure, refer to the [Top Cities with the Most Skyscrapers Blog]().
+For a step-by-step procedure, refer to the [Top Cities with the Most Skyscrapers Blog](https://www.syncfusion.com/blogs/post/dotnet-maui-chart-for-skyscrapers).
